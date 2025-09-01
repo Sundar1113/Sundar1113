@@ -22,10 +22,10 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/sundara-vinayagam-v-64b24730a" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:15px;" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="1000" style="margin-right:15px;" />
 </a>
 <a href="https://instagram.com/sundar_394" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" style="margin-right:15px;" />
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="1000" style="margin-right:15px;" />
 </a>
 <a href="https://www.codechef.com/users/sundar0309" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" style="margin-right:15px;" />

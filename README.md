@@ -7,9 +7,15 @@
 
 ## 👨‍💻 About Me
 
-I am **Sundara Vinayagam V**, a final year **Computer Science and Business Systems** student from **Chennai Institute of Technology**. I am passionate about building reliable, scalable, and real-world software applications.
+## About Me
 
-As a **Full Stack Developer**, I enjoy working across the stack—from designing clean user interfaces to building robust backend services and APIs. I have a strong interest in backend systems, microservices, and modern development practices. I am always eager to **learn new technologies, adapt quickly, and contribute meaningfully** to impactful projects.
+I am **Sundara Vinayagam V**, a **Computer Science and Business Systems graduate** from **Chennai Institute of Technology**. I am passionate about building reliable, scalable, and real-world software applications.
+
+As a **Full Stack Developer**, I enjoy working across the entire application stack—from creating intuitive and responsive user interfaces to developing robust backend services and REST APIs. I have a strong interest in **Java, Spring Boot, Microservices, Angular, databases, and modern software development practices**.
+
+I enjoy turning ideas into practical solutions, solving problems through code, and continuously improving my technical skills. I am always eager to **learn new technologies, take on challenging problems, collaborate with others, and contribute to impactful projects**.
+
+I am currently focused on growing as a software developer and building projects that strengthen my understanding of **full-stack development, distributed systems, and scalable application architecture**.
 
 ---
 
